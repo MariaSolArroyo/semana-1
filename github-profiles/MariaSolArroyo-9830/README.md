@@ -34,13 +34,13 @@ En principio comencé estudiando Ingenieria en Computación, durante la pandemia
 ## ✏️ Undefined Academy
 ### 💻 Comandos Básicos de Terminal 
  
-| Comando | Descripción |
-| ------ | ------ |
-| ```date``` | Muestra la fecha y hora del sistema actual |
-| ```ls``` | Lista los archivos de la carpeta actual o de la ruta dada |
-| ```cd``` | Nos permite navegar entre carpetas |
-| ```mkdir``` | Crea una nueva carpeta dado un nombre para esa carpeta |
-| ```touch``` | Cre un archivo nuevo dada una ruta y/o nombre |
+|    Comando  | Descripción                                               |
+| ----------- | ----------------------------------------------------------|
+| ```date```  | Muestra la fecha y hora del sistema actual                |
+| ```ls```    | Lista los archivos de la carpeta actual o de la ruta dada |
+| ```cd```    | Nos permite navegar entre carpetas                        |
+| ```mkdir``` | Crea una nueva carpeta dado un nombre para esa carpeta    |
+| ```touch``` | Cre un archivo nuevo dada una ruta y/o nombre             |
 
 ### 💻 Alias Útiles
 - **Alias** `cl` = ```"clear"``` 
